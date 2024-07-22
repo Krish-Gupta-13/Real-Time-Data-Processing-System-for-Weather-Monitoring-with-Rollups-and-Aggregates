@@ -1,0 +1,21 @@
+
+
+Folder Stucture for Data:
+---------------------------
+
+data
+  |-----node0
+  |       |----bytes_in
+  |       |        |------Day1.csv
+  |       |        |------Day2.csv
+  |       |        |------ etc
+  |       |----bytes_out
+  |       |        |------Day1.csv
+  |       |        |------Day2.csv etc`
+  |       |----etc
+  |
+  |-----node1
+  |       |---
+  |       |---
+  |
+  |-----etc     
